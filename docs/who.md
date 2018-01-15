@@ -1,6 +1,7 @@
 # Who is using GitVersion
 Various people are actively using GitVersion, and taking advantage of the automatic generation of their version numbers.  Here is a list of applications that we know about today.
 
+ * [Cake](https://github.com/cake-build/cake)
  * [Catel](https://github.com/catel/catel)
  * [ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI)
  * [GitLink](https://github.com/GitTools/GitLink)
